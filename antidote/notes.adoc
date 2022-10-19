@@ -1,0 +1,14 @@
+== Pros
+
+* Simplicity
+* Could easily be encapsulated using tiny wrapper
+
+== Cons
+
+* Requires annotations -> induces strong dependency, tightly couples with application code
+
+== See Also:
+
+* https://github.com/Finistere/antidote
+* link:https://antidote.readthedocs.io/en/latest/guide/index.html[Documentation]
+

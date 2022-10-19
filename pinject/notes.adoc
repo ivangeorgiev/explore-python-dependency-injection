@@ -1,0 +1,11 @@
+
+== Cons
+
+* Last published version is `pinject 0.14.1` released `May 2019`
+* No commits for the past two years - version 0.15.dev5 pre-release exists since `March 2021`
+
+== See Also
+
+* link:https://github.com/google/pinject[GitHub source]
+* Article 1 - link:https://medium.com/swlh/pythonic-dependency-injection-with-googles-pinject-bde2512c2986[Pythonic Dependency Injection With Google’s Pinject]
+* Article 2 - link:https://medium.com/analytics-vidhya/pythonic-dependency-injection-with-pinject-3e9de4886517[Pythonic Dependency Injection with PInject]
